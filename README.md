@@ -7,3 +7,5 @@ All of them pass the test on the website but there is no guarantee about the cor
 Each solution has `no_math_solution` function which is an implementation of my straightforward thought when I first read the question. Some has `math_solution` function whose purpose is to reduce the running time of the counterpart.
 
 - Problem #44: Blind brute-force without any information of upper bound
+
+- Problem #50: Brute-force approach took a while to finish
