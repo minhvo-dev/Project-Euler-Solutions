@@ -9,3 +9,5 @@ Each solution has `no_math_solution` function which is an implementation of my s
 - Problem #44: Blind brute-force without any information of upper bound
 
 - Problem #50: Brute-force approach took a while to finish
+
+- Problem #67: Blind brute-force took a while to finish
